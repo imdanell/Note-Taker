@@ -1,1 +1,17 @@
-# Note-11
+# Unit 11 Express Homework: Note Taker
+
+## Description
+
+This is an application which allows you to easily write and save notes, with the ability to delete them as well. Data is stored though a JSON file.
+
+## User Story
+
+AS A user, I want to be able to write and save notes
+
+I WANT to be able to delete notes I've written before
+
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
+## Running the App
+
+View the site through Heroku
