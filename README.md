@@ -14,4 +14,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Running the App
 
-View the site through Heroku
+View the site through Heroku at: https://warm-wave-54519.herokuapp.com/
