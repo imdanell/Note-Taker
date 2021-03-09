@@ -1,8 +1,9 @@
-# Unit 11 Express Homework: Note Taker
 
 ## Description
 
 This is an application which allows you to easily write and save notes, with the ability to delete them as well. Data is stored though a JSON file.
+
+# Unit 11 Express Homework: Note Taker
 
 ## User Story
 
