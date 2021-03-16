@@ -19,6 +19,7 @@ Easily write, save and delete your notes with this stylish javascript-based site
 ## Usage
 Click the "Get Started" button and begin  typing out all your notes.
 
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
